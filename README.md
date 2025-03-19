@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Makeflouss AI Team - [@makeflouss](https://twitter.com/makeflouss)
 
-Project Link: [https://github.com/yourusername/wallet_mfai_beta](https://github.com/yourusername/wallet_mfai_beta) 
+Project Link: [https://github.com/daadi1919/wallet_mfai_beta](https://github.com/daadi1919/wallet_mfai_beta) 
