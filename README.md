@@ -31,7 +31,7 @@ The project includes the following smart contracts:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wallet_mfai_beta.git
+git clone https://github.com/daadi1919/wallet_mfai_beta.git
 cd wallet_mfai_beta
 ```
 
